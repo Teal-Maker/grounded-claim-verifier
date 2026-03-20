@@ -1,0 +1,6 @@
+{"qa_id": "qa-001", "source_content_id": "src-001", "answer": "The discharge temperature reaches 125°F with suction pressure at 70 psig."}
+{"qa_id": "qa-002", "source_content_id": "src-002", "answer": "Suction pressure of 75 psig is within normal range. High discharge pressure of 275 psig."}
+{"qa_id": "qa-003", "source_content_id": "src-001", "answer": "The system is running at 999°F which is dangerously high."}
+{"qa_id": "qa-004", "source_content_id": "src-004", "answer": "In cold climates the ambient may reach -10°C with pressures around -5 psig."}
+{"qa_id": "qa-005", "source_content_id": "src-003", "answer": "The technician noted the superheat was 65 degrees above saturation."}
+{"qa_id": "qa-006", "source_content_id": "src-006", "type": "multi_turn", "conversation": [{"role": "user", "content": "What is the discharge pressure?"}, {"role": "assistant", "content": "Discharge pressure is 300 psig at 200°F."}, {"role": "user", "content": "Is that normal?"}, {"role": "assistant", "content": "No, 300 psig at 200°F is high."}]}
